@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mecharis, xineese</h1>
 <h3 align="center">Im a fullstack web devoloper</h3>
+<style>
+    a{
+      color: transparent;
+    }
+</style>
 
 - 🔭 I’m currently working on [Tidal](https://github.com/Tidal-Development/tidal-2.0)
 
