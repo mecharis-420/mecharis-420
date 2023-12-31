@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://glock.rip/xineese](https://glock.rip/xineese)
 
-- 📫 How to reach me **@xineese on discord**
+- 📫 Reach me **@xineese on discord**
 
 - ⚡ Fun fact **i am sped**
 
