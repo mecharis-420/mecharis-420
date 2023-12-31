@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mecharis, xineese</h1>
 <h3 align="center">Im a fullstack web devoloper</h3>
 
-- 🔭 I’m currently working on [Tidal](https://github.com/Tidal-Development/tidal-2.0)
+- 🔭 I’m currently working on **SiteForge**
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [https://glock.rip/xineese](https://glock.rip/xineese)
 
