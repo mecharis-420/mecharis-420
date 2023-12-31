@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mecharis, xineese</h1>
-<h3 align="center">Im a fullstack web devoloper</h3>
+<h3 align="center">Im a Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **SiteForge**
 
