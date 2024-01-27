@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mecharis, xineese</h1>
 
-<center>
-  # Languages/Tools I use: 
-</center>
+<h1=2 align="center">Languages/Tools I use:</h2>
 
 - Node.js
 - PHP (learning)
