@@ -21,5 +21,6 @@
 - Vite (used only once lmao)
 - Cloudflare
 - Markdown
+- Figma
 
 ### For some reason you want to reach me, my Discord is: **xineese#0**
