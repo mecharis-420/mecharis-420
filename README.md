@@ -15,6 +15,7 @@
 - VS Code
 - Discord.js
 - MySQL
+- Vite (used only once lmao)
 - Cloudflare
 - Markdown
 
