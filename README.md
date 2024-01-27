@@ -8,6 +8,7 @@
 - HTML
 - CSS
 - Javascript
+- EJS
 - Git
 - GitHub
 - GitLab
