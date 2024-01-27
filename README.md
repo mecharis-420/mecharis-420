@@ -7,6 +7,8 @@
 - Typescript
 - HTML
 - CSS
+- Tailwind CSS
+- daisyUI
 - Javascript
 - EJS
 - Git
