@@ -14,6 +14,7 @@
 - GitLab
 - Linux
 - VS Code
+- Express.js
 - Discord.js
 - MySQL
 - Prisma
