@@ -19,4 +19,4 @@
 - Cloudflare
 - Markdown
 
-## For some reason you want to reach me, my Discord is: **xineese#0**
+### For some reason you want to reach me, my Discord is: **xineese#0**
