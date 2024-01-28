@@ -21,7 +21,7 @@
 - Discord.js
 - MySQL
 - Prisma (learning)
-- Vite (used only once lmao)
+- Vite (learning)
 - Cloudflare
 - Markdown
 - Figma
