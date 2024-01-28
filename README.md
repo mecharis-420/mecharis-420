@@ -20,7 +20,7 @@
 - Express.js
 - Discord.js
 - MySQL
-- Prisma
+- Prisma (learning)
 - Vite (used only once lmao)
 - Cloudflare
 - Markdown
