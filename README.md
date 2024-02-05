@@ -19,8 +19,7 @@
 - VS Code
 - Express.js
 - Discord.js
-- MySQL
-- Prisma (learning)
+- MongoDB
 - Vite (learning)
 - Cloudflare
 - Markdown
