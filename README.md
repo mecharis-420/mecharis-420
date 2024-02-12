@@ -5,6 +5,7 @@
 
 - Node.js
 - PHP (learning)
+- Go 
 - Typescript
 - HTML
 - CSS
