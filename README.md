@@ -5,7 +5,7 @@
 
 - Node.js
 - PHP (learning)
-- Go 
+- Go (not good at)
 - Typescript
 - HTML
 - CSS
@@ -21,7 +21,6 @@
 - Express.js
 - Discord.js
 - MongoDB
-- Vite (learning)
 - Cloudflare
 - Markdown
 - Figma
